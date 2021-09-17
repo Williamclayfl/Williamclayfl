@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Williamclayfl
+- 👋 Hi, I’m William Clay
 - 👀 I’m interested in cloud engineering and automation
 - 🌱 I’m currently learning python and AWS
 - 📫 How to reach me williamclayfl@gmail.com
